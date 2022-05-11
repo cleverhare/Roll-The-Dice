@@ -78,7 +78,7 @@ var pval = document.getElementById("phone").value;
   Email.send({
     Host: "smtp.gmail.com",
     Username: "soumyajitbrah@gmail.com",
-    Password: "So@bk^236",
+    Password: "So@br^236",
     To: "cleverhare.greatsite@gmail.com",
     From: "soumyajitbrah@gmail.com",
     Subject: "Subject and rupees to be paid",
