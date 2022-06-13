@@ -42,3 +42,5 @@ Yes I looking to colaborate on Freelance Projects. Email me at soumyajitbrah@gma
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/scaresteeler)
 
+[![Fiverr](https://img.shields.io/badge/Fiverr-3ea088?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/cleverhare)
+
